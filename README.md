@@ -4,8 +4,8 @@ This is a fun coding challenge inspired by a prompt I saw on Instagram. The goal
 
 ## 💡 Example
 
-**Input:** Please provide a number: one hundred twenty five  
-**Output:** 125
+**Input:** `Please provide a number: one hundred twenty five`  
+**Output:** `125`
 
 
 ## 🚀 How It Works
